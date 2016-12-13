@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="Classifier&lt;T, Id&gt;" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAIIAAAAAAAAAAAAAAAAgBAAABCEAAAAAAEAA=</HashCode>
+      <FileName>Classifier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourierShapeDesc" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAIIAAAAAQAAAAEAAAQAAAAAABAAEABAgAAAAA=</HashCode>
+      <FileName>FourierShapeDesc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HKNNClassifier" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAACQAAAAAAQAA=</HashCode>
+      <FileName>HKNNClassifier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Imagen&lt;T&gt;" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GggAABAAAEAACAAQYAGAIQACDIRAADgAAAAFAgBABAA=</HashCode>
+      <FileName>Imagen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IShapeDesc" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>IShapeDesc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KnnClassifier" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BEQAAAAAIIAAEAAgAABBAAgAAAAAAAABuABAAAgAUAA=</HashCode>
+      <FileName>KnnClassifier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixDyn&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGQAQAAAAAAAAAAAIAAAAAAAAAAEgEgAAAAAQQCAACA=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixT&lt;T&gt;" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CmQAAAAAAAAAAACAIACAgQQAAAAIAGpAAAAgATIIAAA=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Moments" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CGCAAAABAAASEAEAAAAAABAjQIABAAACBkAEASAAACE=</HashCode>
+      <FileName>Moments.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Objeto" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAgACAAggAAAgAACBAAAEAAAQAABAEwgAAAAA=</HashCode>
+      <FileName>Objeto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Procesador" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAABBAYAABoEAABIIGAAASEiQEAAAAAIAgAAAgA=</HashCode>
+      <FileName>Procesador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
