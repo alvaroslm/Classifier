@@ -10,6 +10,7 @@ Unzip the images and opencv(old version) zip files and compile with VS2013
 
 ## License
 
+(C) 2008 Alvaro Salmador
 All rights reserved.
 
 
